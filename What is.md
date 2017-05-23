@@ -129,5 +129,10 @@
 126. What is...a [blender](http://www.ams.org/publications/journals/notices/201610/rnoti-p1175.pdf)? — *Ch. Bonatti, S. Crovisier, L. J. Díaz, A. Wilkinson*, November 2016
 127. What is... [symplectic geometry](http://www.ams.org/publications/journals/notices/201611/rnoti-p1252.pdf)? — *Tara S. Holm*, December 2016
 128. What is... [complex symmetric operator](http://www.ams.org/publications/journals/notices/201701/rnoti-p35.pdf)? — *Stephan Ramon Garcia*, January 2017
+129. What is...[Benford’s Law](http://www.ams.org/publications/journals/notices/201702/rnoti-p132.pdf)? — *Arno Berger and Ted Hill*, February 2017
+130. What is...an [Elliptic Curve](http://www.ams.org/publications/journals/notices/201703/rnoti-p241.pdf)? — *Álvaro Lozano-Robledo and Harris B. Daniels*, March 2017
+131. What is...[Tropical Geometry](http://www.ams.org/publications/journals/notices/201704/rnoti-p380.pdf)? — *Eric Katz*, April 2017
+132. What is...a [Virtual Knot](http://www.ams.org/publications/journals/notices/201705/rnoti-p461.pdf)? — *Daniel S. Silver and Susan G. Williams*, May 2017
 
-(update in 2016/12/14)
+(update in 2016/05/23)
+
